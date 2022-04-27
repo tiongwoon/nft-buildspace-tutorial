@@ -17,7 +17,7 @@ module.exports = {
   etherscan: {
     // Your API key for Etherscan
     // Obtain one at https://etherscan.io/
-    apiKey: "58QK5Z45MRQZ6HWH48SC8UISZZ2HJ6CAUF",
+    apiKey: "ETHERSCAN_API_KEY",
   }
 };
 
